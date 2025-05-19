@@ -61,7 +61,7 @@ Rename-Computer -NewName "DC01" -Restart
 After domain setup, I manually created:
 
 ➤ Organizational Unit
-Name: IT
+Name: TestLab
 
 ➤ User
 Name: Test User
