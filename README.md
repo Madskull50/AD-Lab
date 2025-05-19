@@ -91,3 +91,12 @@ Managing users and OUs in Active Directory
 Joining clients to a domain
 
 Understanding domain controller roles
+
+🏁 Next Steps (Future Additions)
+Group Policy Object (GPO) testing
+
+File shares and access control
+
+Logon scripts
+
+Delegating control to junior admins
