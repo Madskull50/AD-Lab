@@ -1,7 +1,6 @@
 # 🖥️ Active Directory Lab Project
 
-This project demonstrates the setup of a **Windows Server 2022 Active Directory Domain Services (AD DS)** lab using **Oracle VirtualBox**. The lab includes a Domain Controller with a custom Organizational Unit (OU) and a user account — ideal for learning and resume-building.
-
+This project demonstrates the setup of a **Windows Server 2022 Active Directory Domain Services (AD DS)** lab using **Oracle VirtualBox**. The lab includes a Domain Controller with a custom Organizational Unit (OU) and a user account
 ---
 
 ## 📌 Project Goals
