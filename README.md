@@ -91,8 +91,32 @@ Joining clients to a domain
 
 Understanding domain controller roles
 
+🔐 Group Policy Configuration
+This configuration enforces strong password policies using Group Policy:
+
+Minimum Password Length: 6 characters
+
+Password Complexity: Enabled (requires special characters, uppercase, lowercase, and numbers)
+
+Maximum Password Age: 20 days (users must reset their password every 20 days)
+
+To apply these settings via Group Policy:
+
+Open the Group Policy Management Console (GPMC).
+
+Navigate to:
+Computer Configuration > Windows Settings > Security Settings > Account Policies > Password Policy
+
+Set the following:
+
+Minimum password length: 6
+
+Password must meet complexity requirements: Enabled
+
+Maximum password age: 20 days
+
+
 🏁 Next Steps (Future Additions)
-Group Policy Object (GPO) testing
 
 File shares and access control
 
