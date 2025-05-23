@@ -115,6 +115,14 @@ Password must meet complexity requirements: Enabled
 
 Maximum password age: 20 days
 
+### 🔧 DNS Configuration
+
+- Verified DNS role installed during AD DS promotion
+- Confirmed Forward Lookup Zone `lab.local` with A records and SRV records
+- Created Reverse Lookup Zone `192.168.56.0`
+- Added PTR record for `dc01.lab.local` (192.168.56.10)
+- Verified name resolution with `nslookup` and PowerShell
+
 
 🏁 Next Steps (Future Additions)
 
